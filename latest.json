@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "url": "https://github.com/skSecureMinded/basil-releases/releases/download/v1.2.0/basil-1.2.0.apk",
-  "notes": "New Sounds drill for learning the number sounds, with a memory hook for each digit."
+  "version": "1.3.0",
+  "url": "https://github.com/skSecureMinded/basil-releases/releases/download/v1.3.0/basil-1.3.0.apk",
+  "notes": "New Sounds drill step 4, Number to word: see a two-digit number and pick the word that says it. A miss shows both words sound by sound and comes back."
 }
